@@ -56,3 +56,11 @@ Before executing the script make sure to specify the location of the test-set (`
 ##### 5. create submission file:
 
 Finally we create the submission file using the script `create_submission.py`. Inside the script we have to spocify the location of the predictions (output of step 4), and the location of the test_set.
+
+
+Citations
+-----
+
+For citations you can reference this paper::
+
+Andrés Ferraro, Dmitry Bogdanov, and Xavier Serra. **"Skip prediction using boosting trees based on acoustic features of tracks in sessions"**. WSDM Cup 2019 Workshop on the 12th ACM International Conference on Web Search and Data Mining, February 15, 2019, Malbourne, Australia.
